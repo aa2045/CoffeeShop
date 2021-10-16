@@ -1,0 +1,201 @@
+***********************************
+		MENU
+**********************************
+BEVERAGE,B111,MangoMilkshake,Mango and Milk,10
+BEVERAGE,B113,Tea,Served hot,2
+BEVERAGE,B115,BobbaTea,Bubble tea with tapioca pearls,10
+FOOD,F117,ArabitaPasta,Arabita sauce pasta,23
+FOOD,F119,Nachos,Nachos with jalepenos,15
+FOOD,F123,Pizza,All the meats,41
+FOOD,F120,Cake,Chocolate moist,15
+OTHER,I124,Internet2, 60 min of internet package, 17
+
+
+**********************************
+		Customer Orders
+*********************************
+
+customer yr9ut: 
+Item: F116  ClubSandwich
+Cost: 26.0AED
+after 20% discount: 20.8AED
+-------------------------------
+Item: F117  ArabitaPasta
+Cost: 23.0AED
+after 20% discount: 18.400000000000002AED
+-------------------------------
+Item: F118  Ramen
+Cost: 14.0AED
+-------------------------------
+Item: F116  ClubSandwich
+Cost: 26.0AED
+after 20% discount: 20.8AED
+-------------------------------
+Item: B112  Abood
+Cost: 7.0AED
+after 20% discount: 5.6000000000000005AED
+-------------------------------
+Item: B113  Tea
+Cost: 2.0AED
+after 20% discount: 1.6AED
+-------------------------------
+Item: I124  Internet2
+Cost: 17.0AED
+-------------------------------
+Total AED: 98.19999999999999
+Partial Income: 98.19999999999999
+
+
+
+customer ro64a: 
+Item: F116  ClubSandwich
+Cost: 26.0AED
+after 20% discount: 20.8AED
+-------------------------------
+Item: F116  ClubSandwich
+Cost: 26.0AED
+after 20% discount: 20.8AED
+-------------------------------
+Item: F116  ClubSandwich
+Cost: 26.0AED
+after 20% discount: 20.8AED
+-------------------------------
+Item: B111  MangoMilkshake
+Cost: 10.0AED
+after 20% discount: 8.0AED
+-------------------------------
+Item: B111  MangoMilkshake
+Cost: 10.0AED
+after 20% discount: 8.0AED
+-------------------------------
+Item: B111  MangoMilkshake
+Cost: 10.0AED
+-------------------------------
+Item: B111  MangoMilkshake
+Cost: 10.0AED
+-------------------------------
+Item: I123  Internet1
+Cost: 10.0AED
+-------------------------------
+Item: I123  Internet1
+Cost: 10.0AED
+-------------------------------
+Item: I123  Internet1
+Cost: 10.0AED
+-------------------------------
+Total AED: 128.4
+Partial Income: 226.6
+
+
+
+customer rz64b: 
+Item: I123  Internet1
+Cost: 10.0AED
+-------------------------------
+Total AED: 10.0
+Partial Income: 236.6
+
+
+
+customer oem1b: 
+Item: F116  ClubSandwich
+Cost: 26.0AED
+-------------------------------
+Total AED: 26.0
+Partial Income: 262.6
+
+
+
+customer hd5sf: 
+Item: F116  ClubSandwich
+Cost: 26.0AED
+-------------------------------
+Total AED: 26.0
+Partial Income: 288.6
+
+
+
+customer xhgoy: 
+Item: B111  MangoMilkshake
+Cost: 10.0AED
+-------------------------------
+Item: B111  MangoMilkshake
+Cost: 10.0AED
+-------------------------------
+Item: B115  BobbaTea
+Cost: 10.0AED
+-------------------------------
+Total AED: 30.0
+Partial Income: 318.6
+
+
+
+customer y1tox: 
+Item: F119  Cheese
+Cost: 1.0AED
+-------------------------------
+Item: F116  ClubSandwich
+Cost: 26.0AED
+-------------------------------
+Total AED: 27.0
+Partial Income: 345.6
+
+
+
+customer bg7z1: 
+Item: F117  ArabitaPasta
+Cost: 23.0AED
+-------------------------------
+Item: F117  ArabitaPasta
+Cost: 23.0AED
+-------------------------------
+Total AED: 46.0
+Partial Income: 391.6
+
+
+
+customer q5t8i: 
+Item: F116  ClubSandwich
+Cost: 26.0AED
+-------------------------------
+Item: F118  Ramen
+Cost: 14.0AED
+-------------------------------
+Item: F120  Cake
+Cost: 15.0AED
+-------------------------------
+Total AED: 55.0
+Partial Income: 446.6
+
+
+
+customer r443j: 
+Item: F119  Cheese
+Cost: 1.0AED
+-------------------------------
+Total AED: 1.0
+Partial Income: 447.6
+
+
+
+
+**********************************
+		Item frequency
+**********************************
+
+**************** FOOD *******************
+ClubSandwich  (F116)  : 9
+ArabitaPasta  (F117)  : 3
+Ramen  (F118)  : 2
+Cheese  (F119)  : 2
+Cake  (F120)  : 1
+
+**************** BEVERAGE *******************
+MangoMilkshake  (B111)  : 6
+Abood  (B112)  : 1
+Tea  (B113)  : 1
+BobbaTea  (B115)  : 1
+
+**************** OTHER *******************
+Internet1  (I123)  : 4
+Internet2  (I124)  : 1

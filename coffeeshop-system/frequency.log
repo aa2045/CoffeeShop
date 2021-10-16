@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-27T08:45:23</date>
+  <millis>1614401123933</millis>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>SEVERE</level>
+  <class>f21as.coursework.coffeshop.core.FileManager</class>
+  <method>readFile</method>
+  <thread>14</thread>
+  <message>Problem READING the file files/orderfile.csv</message>
+</record>
+</log>
