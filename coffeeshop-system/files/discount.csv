@@ -1,0 +1,3 @@
+Discount,Rules,name
+20,3:FOOD+2:BEVERAGE,discount1
+10,1:pizza+1:BEVERAGE+1:OTHER,discount2

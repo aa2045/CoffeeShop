@@ -1,0 +1,16 @@
+﻿Category,Food_Code,Item,Description,Price
+BEVERAGE,B111,MangoMilkshake,Mango and Milk,10
+BEVERAGE,B112,Abood,Combination of melon and milk,7
+BEVERAGE,B113,Tea,Served hot,2
+BEVERAGE,B114,Coffee,Served hot,2
+BEVERAGE,B115,BobbaTea,Bubble tea with tapioca pearls,10
+FOOD,F116,ClubSandwich,Turkey and beef,26
+FOOD,F117,ArabitaPasta,Arabita sauce pasta,23
+FOOD,F118,Ramen,Spicy ramen,14
+FOOD,F119,Nachos,Nachos with jalepenos,15
+FOOD,F120,Fries,Crispy fries,11
+FOOD,F123,Pizza,All the meats,41
+FOOD,F119,Cheese,cheese,1
+FOOD,F120,Cake,Chocolate moist,15
+OTHER,I123,Internet1, 30 min of internet package, 10
+OTHER,I124,Internet2, 60 min of internet package, 17
